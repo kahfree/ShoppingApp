@@ -31,6 +31,7 @@ Listing all the data from the text files that were used to give you an understan
 
 ### Employee Data
 | Username | Password | Position | 
+|----------|----------|----------|
 |Tom	     |1234	    |M	       |
 |Fred	     |9876	    |A	       |
 |Ger	     |4321	    |A	       |
