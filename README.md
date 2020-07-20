@@ -11,10 +11,10 @@ so a manager would have more functionality than an assistant.
 ![Requires username and password to access app portal](LoginSystem.gif)
 
 ### Manager's Option List
-![Basic feature list with the ability to add and delete items and employees from the database]
+![Basic feature list with the ability to add and delete items and employees from the database](ManagerList.jpg)
 
 ### Assistant's Option List
-![Barebones feature list, minimal functionaility]
+![Barebones feature list, minimal functionaility](AssistantList.jpg)
 
 ## Data Used
 Listing all the data from the text files that were used to give you an understanding of what we were working with.
