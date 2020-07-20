@@ -8,7 +8,7 @@ provided you were a Manager ('m') and not an Assistant ('a'). The manager and as
 so a manager would have more functionality than an assistant.
 
 ### The Login Feature
-![Requires username and password to access app portal]
+![Requires username and password to access app portal](LoginSystem.gif)
 
 ### Manager's Option List
 ![Basic feature list with the ability to add and delete items and employees from the database]
