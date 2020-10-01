@@ -10,6 +10,8 @@ so a manager would have more functionality than an assistant.
 ### The Login Feature
 <img src="LoginSystem.gif" width="600" height="350" alt="Requires username and password to access app portal">
 
+This feature prompts the user to enter their username and password, if they match the database, they'll enter into their portal respective to their role.
+
      int Login(CUser userlist[], int usersize, CItem itemlist[], int itemsize)
      {
     
